@@ -1,4 +1,4 @@
-#Alex King
+#Author: Alex King
 #This module decrypts the cipher text
 # using private key and public key
 #
