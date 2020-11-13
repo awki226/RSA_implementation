@@ -1,7 +1,7 @@
 # Author: Alex King
 # Purpose: RSA cryptosystem implementation
+# Generates Key
 # Date: 04-22-2020
-# Course: CS 378
 
 import random
 
